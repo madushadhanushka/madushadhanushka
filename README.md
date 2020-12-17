@@ -1,5 +1,5 @@
 ### Hi there, I'm Dhanushka Madushan 👋
-
+![](https://komarev.com/ghpvc/?username=madushadhanushka)
 ## I'm a Developer, Blogger and Open Source enthusiastic!
 - 🔭 I’m currently working on a Integration and API managment!
 - 🌱 I’m currently learning everything 🤣
