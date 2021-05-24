@@ -50,6 +50,8 @@
 
 <img align="left" alt="Dhanushka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madushadhanushka&layout=compact)](https://github.com/madushadhanushka/github-readme-stats)
+
 [website]: http://devform.netlify.com/
 [twitter]: https://twitter.com/DhanushkaDEV
 [youtube]: https://www.youtube.com/channel/UCBy8HwGXUnM60EOj9sDcz-g
