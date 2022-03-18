@@ -37,16 +37,18 @@
 ---
 
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+### 📕 Featured Blog Posts
 - [Developing Ballerina project with Ballerina CLI tool](https://medium.com/technology-in-essence/developing-ballerina-project-with-ballerina-cli-tool-66cb6ebf5111)
 - [WSO2 Synapse Handlers](https://medium.com/@madushandhanushka/wso2-synapse-handlers-64b34af06cbb)
 - [Gentle Introduction to the Envoy Proxy and Load-balancing](https://medium.com/hackernoon/gentle-introduction-to-the-envoy-proxy-and-load-balancing-b3e3eb72c71f)
 - [Learning Git Concept by Hacking Github](https://medium.com/@madushandhanushka/learning-git-concept-by-hacking-github-e4993049c6b0)
 - [Deploy Your First Application in Docker Swarm](https://medium.com/faun/deploy-your-first-application-in-docker-swarm-4d7352c89906)
-<!-- BLOG-POST-LIST:END -->
 
 ---
+
+# Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Dhanushka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&show_icons=true&hide_border=true" />
 
