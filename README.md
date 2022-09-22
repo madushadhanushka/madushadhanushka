@@ -48,11 +48,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka consumer with WSO2 Micro integrator](https://medium.com/@madushandhanushka/apache-kafka-consumer-with-wso2-micro-integrator-3342004962e4?source=rss-8ef4f076feec------2)
 - [Don’t let anyone sneak peek into your Micro Integrator: Security guide for WSO2 MI](https://medium.com/@madushandhanushka/dont-let-anyone-sneak-peek-into-your-microintegrator-security-guide-for-wso2-mi-464a52eb91e2?source=rss-8ef4f076feec------2)
 - [Auditing WSO2 Micro-integrator with audit logs](https://medium.com/@madushandhanushka/auditing-wso2-micro-integrator-with-audit-logs-736cd234a6f6?source=rss-8ef4f076feec------2)
 - [What is the Circuit Breaker Pattern?](https://medium.com/think-integration/what-is-the-circuit-breaker-pattern-119c1237185f?source=rss-8ef4f076feec------2)
 - [Managing Configurations to Improve the User Experience of Software Applications](https://medium.com/@madushandhanushka/managing-configurations-to-improve-the-user-experience-of-software-applications-68b33df66a41?source=rss-8ef4f076feec------2)
-- [WSO2 Synapse Handlers](https://medium.com/think-integration/wso2-synapse-handlers-64b34af06cbb?source=rss-8ef4f076feec------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Dhanushka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&show_icons=true&hide_border=true" />
