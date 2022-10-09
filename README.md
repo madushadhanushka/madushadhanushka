@@ -35,7 +35,9 @@
 <br />
 
 ---
-
+### Latest Youtube videos
+[![Everything Is AWESOME](https://img.youtube.com/vi/grzxF7cD2g0/0.jpg)](https://www.youtube.com/watch?v=grzxF7cD2g0 "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/RMjMYoiXGXQ/0.jpg)](https://www.youtube.com/watch?v=RMjMYoiXGXQ "Everything Is AWESOME")
 
 ### 📕 Featured Blog Posts
 - [Developing Ballerina project with Ballerina CLI tool](https://medium.com/technology-in-essence/developing-ballerina-project-with-ballerina-cli-tool-66cb6ebf5111)
