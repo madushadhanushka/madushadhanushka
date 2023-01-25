@@ -50,7 +50,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Short Blog] Setting up WSO2 with proxy server](https://medium.com/@madushandhanushka/short-blog-setting-up-wso2-with-proxy-server-2d1e0d3c9d7?source=rss-8ef4f076feec------2)
+- [[Short Blog] Setting up WSO2 EI/MI with proxy server](https://medium.com/@madushandhanushka/short-blog-setting-up-wso2-with-proxy-server-2d1e0d3c9d7?source=rss-8ef4f076feec------2)
 - [Create message store and processor with WSO2 EI and ActiveMQ](https://medium.com/@madushandhanushka/create-message-store-and-processor-with-wso2-ei-and-activemq-d0790105f11b?source=rss-8ef4f076feec------2)
 - [[Short Blog] Testing RDBMS store with WSO2 APIM SI analytic triggers](https://medium.com/@madushandhanushka/short-blog-testing-rdbms-store-with-wso2-apim-si-analytic-triggers-491b97563fe?source=rss-8ef4f076feec------2)
 - [WSO2 EI/MI with SFTP](https://medium.com/@madushandhanushka/wso2-ei-mi-with-sftp-6ad9a9693ac4?source=rss-8ef4f076feec------2)
